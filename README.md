@@ -3,17 +3,16 @@
 A **production-ready backend REST API** built using **Node.js, Express, and MongoDB**.
 This project provides secure authentication and full CRUD functionality for managing tasks.
 
-## 🎬 Tech Stack in Action
+## 🎬 Tech Stack
 
 ### 🟢 Node.js
-![Node.js](https://media.giphy.com/media/coxQHKASG60HrHtvkt/giphy.gif)
+![Node.js](https://i0.wp.com/andrewbeeken.co.uk/wp-content/uploads/2018/11/nodejs.jpg?fit=1200%2C675&ssl=1)
 
 ### ⚡ Express.js
 ![Express.js](https://media.giphy.com/media/kH1DBkPNyZPOk0BxrM/giphy.gif)
 
 ### 🍃 MongoDB
 ![MongoDB](https://media.giphy.com/media/kdFc8fubgS31b8DsVu/giphy.gif)
----
 
 ## 📌 Features
 
