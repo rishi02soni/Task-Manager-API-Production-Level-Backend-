@@ -9,10 +9,10 @@ This project provides secure authentication and full CRUD functionality for mana
 ![Node.js](https://i0.wp.com/andrewbeeken.co.uk/wp-content/uploads/2018/11/nodejs.jpg?fit=1200%2C675&ssl=1)
 
 ### ⚡ Express.js
-![Express.js](https://media.giphy.com/media/kH1DBkPNyZPOk0BxrM/giphy.gif)
+![Express.js]([https://media.giphy.com/media/kH1DBkPNyZPOk0BxrM/giphy.gif](https://www.linkedin.com/pulse/introduction-expressjs-meet-sabhaya-0zi3f))
 
 ### 🍃 MongoDB
-![MongoDB](https://media.giphy.com/media/kdFc8fubgS31b8DsVu/giphy.gif)
+![MongoDB]([https://media.giphy.com/media/kdFc8fubgS31b8DsVu/giphy.gif](https://mma.prnewswire.com/media/384058/MongoDB_Logo.jpg?p=facebook))
 
 ## 📌 Features
 
